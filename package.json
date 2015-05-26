@@ -1,0 +1,38 @@
+{
+  "name": "workspace",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "async": "^0.9.0",
+    "cron": "^1.0.4",
+    "express": "^3.3.8",
+    "cheerio": "^0.18.0",
+    "iconv": "^2.1.6",
+    "moment": "^2.8.3",
+    "log4js": "^0.6.21",
+    "mysql": "^2.4.2",
+    "mongodb": "^1.4.8",
+    "logs": "^0.0.7",
+    "jade": "^1.5.0",
+    "ftp": "^0.3.10",
+    "time": "^0.11.0",
+    "node-gyp": "^1.0.2",
+    "xmldom": "^0.1.19",
+    "xpath.js": "^1.0.5",
+    "socket.io": "^1.1.0",
+    "procstreams": "^0.3.0",
+    "xml2js": "^0.4.8",
+    "request": "^2.53.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "ssh://chenpeng@218.30.107.19:29418/workspace.git"
+  },
+  "author": "chenpeng",
+  "license": "ISC"
+}
